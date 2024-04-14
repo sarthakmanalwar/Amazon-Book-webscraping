@@ -8,3 +8,4 @@ step 3: scrapy crawl amazon_scrap -o out.json <br>
 This will provide you extracted output in json file as I have provided already. 
 
 
+https://github.com/sarthakmanalwar/Amazon-Book-webscraping/blob/main/scrapy%20ss.png
